@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "I’m Krysna Yudha Maulana\_ an Electronics, Internet of Things, and Artificial Intelligence developer."
+    title: >-
+      I’m Krys an Electronics, Internet of Things, and Artificial Intelligence
+      developer.
     subtitle: >-
       This is Krysna Yudha Maulana, an Electronics, IoT, and Artificial
       Intelligence Developer. I’m sharing my journey and projects to showcase
