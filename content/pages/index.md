@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     title: 'hello I’m a electronics enggginer, iot and ai developer.'
     subtitle: >-
